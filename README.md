@@ -1,4 +1,4 @@
-<h1 align="center"  style="color: green;";>Hi 👋🏽, I'm Fidan. 👩🏽‍💻🌈✨</h1>
+<h1 align="center" >Hi 👋🏽, I'm Fidan. 👩🏽‍💻🌈✨</h1>
 <h3 align="center">Creating Robust Solutions with .NET 🔧 | Passionate about Clean Code and Software Architecture 🏗️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fidannovruzlu&label=Profile%20views&color=0e75b6&style=flat" alt="fidannovruzlu" /> </p>
 
