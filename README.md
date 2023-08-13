@@ -17,4 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fidannovruzlu&show_icons=true&locale=en&layout=compact" alt="fidannovruzlu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fidannovruzlu&show_icons=true&locale=en" alt="fidannovruzlu" /></p>
+
 ![Snake animation](https://github.com/FidanNovruzlu/FidanNovruzlu/blob/output/github-contribution-grid-snake.svg)
